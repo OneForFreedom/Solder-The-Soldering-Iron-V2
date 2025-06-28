@@ -1,0 +1,17 @@
+Meet Solder the Soldering Iron!
+He’s your cute - to go - companion with cute led eyes, he’s a must have for everybody!
+
+Here’s what I used:
+
+3x 5mm LEDs 3x Resistors 1x CR2032 battery cell holder 1x 6mm Push Button 1x Pcb
+
+Slack username : One For Freedom
+
+3D View
+Solder 3D
+
+PCB Layout
+Solder PCB
+
+Schematic
+Solder Schematic
