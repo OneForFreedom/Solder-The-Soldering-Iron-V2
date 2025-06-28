@@ -1,4 +1,4 @@
-Meet Solder the Soldering Iron!
+# Meet Solder the Soldering Iron!
 He’s your cute - to go - companion with cute led eyes, he’s a must have for everybody!
 
 Here’s what I used:
@@ -7,11 +7,13 @@ Here’s what I used:
 
 Slack username : One For Freedom
 
-3D View
-Solder 3D
+## Soldering Project Visuals
 
-PCB Layout
-Solder PCB
+### 3D Model View
+![Solder 3D](Solder%203D.png)
 
-Schematic
-Solder Schematic
+### PCB Layout
+![Solder PCB](Solder%20PCB.png)
+
+### Circuit Schematic
+![Solder Schematic](Solder%20Schematic.png)
