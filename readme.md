@@ -7,13 +7,16 @@ Here’s what I used:
 
 Slack username : One For Freedom
 
-## Soldering Project Visuals
+# Soldering Project Visuals
 
-### 3D Model View
+## 3D Model View
 ![Solder 3D](Solder%203D.png)
 
 ### PCB Layout
 ![Solder PCB](Solder%20PCB.png)
 
-### Circuit Schematic
+## Circuit Schematic
 ![Solder Schematic](Solder%20Schematic.png)
+
+## Image I used on the pcb
+![Solder Schematic](Solder%20Image.png)
